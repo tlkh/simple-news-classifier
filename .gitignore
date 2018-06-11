@@ -2,3 +2,5 @@
 *.csv
 *.h5
 *.pickle
+
+glove
